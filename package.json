@@ -1,0 +1,19 @@
+{
+  "name": "fake_github_api",
+  "version": "1.0.0",
+  "description": "Fake GitHub API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "api",
+    "VIVES"
+  ],
+  "author": "Nico De Witte (aka BioBoost)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
